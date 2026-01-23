@@ -10,7 +10,7 @@
             <br>
             <label>Price: 9.99</label>
             <br>
-            <input type="submit" name="total">     
+            <input type="submit" value="total">     
         </form>
     </body>
 </html>
