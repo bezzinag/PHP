@@ -23,7 +23,11 @@
     //$total = abs($x); absolute
     //$total = round($x);
     //$total = floor($x);
-    $total = ceil($x);
+    //$total = ceil($x);
+    //$total = sqrt($x);
+    //$total = pow($x, 3);
+    //$total = pi();
+    //$total = rand(1, 100);
 
     echo "{$total}";
 
